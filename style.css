@@ -1,0 +1,18 @@
+html body {
+  background: blueviolet;
+  margin: 0;
+  height: 100vh;
+  margin-top: -20px;
+  padding: 0;
+}
+
+h3 {
+  margin: 10px auto;
+}
+#grid {
+  width: 400px;
+  height: 300px;
+  margin: 30px auto;
+  display: flex;
+  flex-wrap: wrap;
+}

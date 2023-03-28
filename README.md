@@ -25,3 +25,6 @@ There is a restart button that allows you to restart the game at any time.
 HTML
 CSS
 JavaScript
+
+## Test-Deploy
+https://dinny-memory-game.netlify.app/
